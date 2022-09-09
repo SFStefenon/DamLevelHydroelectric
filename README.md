@@ -7,7 +7,7 @@ The records were recorded at a time interval of 1h, for 31 days, corresponding t
 **Barra Grande** hydroelectric power plant is located on the Pelotas River, about 43 kilometers from its confluence with the Canoas River, between the cities of Anita Garibaldi/SC and Pinhal da Serra/RS, Brazil.
 https://www.baesa.com.br/
 
-This power plant has an installed capacity of **690MW**, with a **94km reservoir** and a **185m high dam**. Based on its characteristics, it has a capacity equivalent to 24% of the demand in the state in which it is installed (Santa Catarina state, Brazil).
+This power plant has an installed capacity of **690MW**, with a **94km$^2$ reservoir** and a **185m high dam**. Based on its characteristics, it has a capacity equivalent to 24% of the demand in the state in which it is installed (Santa Catarina state, Brazil).
 
 
 
