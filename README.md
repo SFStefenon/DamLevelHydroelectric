@@ -23,22 +23,13 @@ This repository presents a Wavelet-Seq2Seq-LSTM with Attention model.
 
 > The attention mechanism assigns appropriate weight to each encoder's hidden state output, and maps them to the output sequence, solving the problem of having a weak memory about the previous time steps in a long time series.
 
+##The notebook for the analysis is divided according to the evaluations:
 
-This repository presents a wavelet Seq2Seq long short-term memory network with attention mechanism model.
+> Seq2Seq-LSTM with Attention: Evaluation of the starting model using the Attention Mechanism.
 
-Two time-varying sequences are generated to evaluate a sequence-to-sequence learning (Seq2Seq) signal.
+> Optimized Seq2Seq-LSTM with Attention: Evaluation with the optimized hyperparameters (based on Optuna).
 
-To extract features from the original signal, the empirical wavelet transform (EWT) is used.
-
-The hyperparameters of the model are optimized by Optuna and the attention mechanism is used.
-
-The notebook for the analysis is divided according to the evaluations:
-
-Seq2Seq-LSTM with Attention: Evaluation of the starting model using the Attention Mechanism.
-
-Optimized Seq2Seq-LSTM with Attention: Evaluation with the optimized hyperparameters (based on Optuna).
-
-Standard Seq2Seq LSTM: Standard model for comparative purposes.
+> Standard Seq2Seq LSTM: Standard model for comparative purposes.
 
 Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb)!
 
