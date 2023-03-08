@@ -25,6 +25,8 @@ This repository presents an algorithm called Wavelet-Seq2Seq-LSTM with Attention
 
 **Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb)!**
 
+The architecture of the proposed model is as follows:
+
 ![image](https://user-images.githubusercontent.com/88292916/223674069-708ecf87-0bac-4abe-a16c-df7b05013a0f.png)
 
 ---
