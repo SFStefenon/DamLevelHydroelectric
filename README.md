@@ -15,3 +15,8 @@ To perform an evaluation of the possible scenarios in a sequence-to-sequence (Se
 
 
 
+---
+
+Wrote by Dr. Laio Oriel Seman and Dr. Stefano Frizzo Stefenon.
+
+Trento, Italy, March 10, 2023.
