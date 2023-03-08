@@ -23,7 +23,7 @@ This repository presents an algorithm called Wavelet-Seq2Seq-LSTM with Attention
 
 > The **attention mechanism** assigns appropriate weight to each encoder's hidden state output, and maps them to the output sequence, solving the problem of having a weak memory about the previous time steps in a long time series.
 
-**Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/DamLevelHydroelectric/blob/main/Wavelet_Seq2Seq_LSTM_Attention.ipynb)!**
+**Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/DamLevelHydroelectric/blob/main/Wavelet-Seq2Seq-LSTM-Attention.ipynb)!**
 
 The architecture of the proposed model is as follows:
 
