@@ -15,6 +15,15 @@ To perform an evaluation of the possible scenarios in a sequence-to-sequence (Se
 
 # Wavelet-Seq2Seq-LSTM with Attention
 
+The poposed method uses wavelet transform, seq2seq-LSTM, and attention mechanism.
+
+> The wavelet transform makes noise reduction for chaotic time series.
+
+> The seq2seq-LSTM makes predictions based on the history of variation in the dam level of the hydroelectric plant.
+
+> The attention mechanism assigns appropriate weight to each encoder's hidden state output, and maps them to the output sequence, solving the problem of having a weak memory about the previous time steps in a long time series.
+
+
 This repository presents a wavelet Seq2Seq long short-term memory network with attention mechanism model.
 
 Two time-varying sequences are generated to evaluate a sequence-to-sequence learning (Seq2Seq) signal.
