@@ -31,7 +31,7 @@ Optimized Seq2Seq-LSTM with Attention: Evaluation with the optimized hyperparame
 
 Standard Seq2Seq LSTM: Standard model for comparative purposes.
 
-Please go ahead and try it on Google Colab!
+Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb)!
 
 ---
 
