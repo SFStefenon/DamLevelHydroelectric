@@ -11,7 +11,7 @@ This power plant has an installed capacity of **690MW**, with a **94km² reservo
 
 To perform an evaluation of the possible scenarios in a sequence-to-sequence (Seq2Seq) time series, noise is included randomly. Using this data, it is possible to evaluate the original signal, as well as two possible scenarios with higher noise intensity (_x1_ and _x2_), as can be seen:
 
-![image](https://user-images.githubusercontent.com/88292916/223682256-2f7cdd30-353a-42bc-9690-ee0f4be755e6.png)
+![image](https://user-images.githubusercontent.com/88292916/223682353-37184d39-a204-498d-8153-c7dcba5305c6.png)
 
 # Wavelet-Seq2Seq-LSTM with Attention model
 
