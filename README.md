@@ -15,7 +15,7 @@ To perform an evaluation of the possible scenarios in a sequence-to-sequence (Se
 
 # Wavelet-Seq2Seq-LSTM with Attention
 
-This repository presents an optimized EWT-Seq2Seq-LSTM with attention mechanism model.
+This repository presents a wavelet Seq2Seq long short-term memory network with attention mechanism model.
 
 Two time-varying sequences are generated to evaluate a sequence-to-sequence learning (Seq2Seq) signal.
 
