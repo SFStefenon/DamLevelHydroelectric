@@ -15,6 +15,7 @@ To perform an evaluation of the possible scenarios in a sequence-to-sequence (Se
 
 # Wavelet-Seq2Seq-LSTM with Attention
 
+This repository presents a Wavelet-Seq2Seq-LSTM with Attention model.
 The poposed method uses wavelet transform, seq2seq-LSTM, and attention mechanism.
 
 > The wavelet transform makes noise reduction for chaotic time series.
