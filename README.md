@@ -17,11 +17,11 @@ To perform an evaluation of the possible scenarios in a sequence-to-sequence (Se
 
 This repository presents an algorithm called Wavelet-Seq2Seq-LSTM with Attention.
 
-> The wavelet transform makes noise reduction for chaotic time series.
+> The **wavelet transfor**m makes noise reduction for chaotic time series.
 
-> The seq2seq-LSTM makes predictions based on the history of variation in the dam level of the hydroelectric plant.
+> The **seq2seq-LSTM** makes predictions based on the history of variation in the dam level of the hydroelectric plant.
 
-> The attention mechanism assigns appropriate weight to each encoder's hidden state output, and maps them to the output sequence, solving the problem of having a weak memory about the previous time steps in a long time series.
+> The **attention mechanism** assigns appropriate weight to each encoder's hidden state output, and maps them to the output sequence, solving the problem of having a weak memory about the previous time steps in a long time series.
 
 **Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/EWT-Seq2Seq-LSTM-Attention/blob/main/EWT_Seq2Seq_LSTM_Attention.ipynb)!**
 
