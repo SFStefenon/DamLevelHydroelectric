@@ -13,6 +13,9 @@ To perform an evaluation of the possible scenarios in a sequence-to-sequence (Se
 
 ![1](https://user-images.githubusercontent.com/88292916/189348533-c9fcaf00-3b29-4f4f-a8a4-008c132676ef.png)
 
+![image](https://user-images.githubusercontent.com/88292916/223682103-ed704de6-4219-4af9-80af-666003292d62.png)
+
+
 # Wavelet-Seq2Seq-LSTM with Attention model
 
 This repository presents an algorithm called Wavelet-Seq2Seq-LSTM with Attention.
