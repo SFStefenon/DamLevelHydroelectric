@@ -31,7 +31,7 @@ The architecture of the proposed model is as follows:
 
 ---
 
-Additional information can be found at the **[Original Paper](xxxx)**.
+Additional information can be found at the **[Original Paper]()**.
 
 BibTeX:
 `@Article{Preprint, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Aquino, Luiza Scapinello and Coelho, Leandro dos Santos}, TITLE = {{Wavelet-Seq2Seq-LSTM} with attention for time series forecasting of level of dams in hydroelectric power plants}, JOURNAL = {Energy}, VOLUME = {Preprint}, YEAR = {2023}, NUMBER = {}, PAGES = {}, DOI = {}}`
