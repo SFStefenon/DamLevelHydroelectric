@@ -37,6 +37,9 @@ BibTeX:
 `@Article{e127350, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Aquino, Luiza Scapinello and Coelho, Leandro dos Santos}, TITLE = {{Wavelet-Seq2Seq-LSTM} with attention for time series forecasting of level of dams in hydroelectric power plants}, JOURNAL = {Energy}, VOLUME = {274}, YEAR = {2023}, PAGES = {127350}, DOI = {10.1016/j.energy.2023.127350}}`
 
 ---
-Wrote by Dr. **Stefano Frizzo Stefenon** and Dr. **Laio Oriel Seman**.
+
+Thank you.
+
+Dr. **Stefano Frizzo Stefenon**
 
 Trento, Italy, March 10, 2023.
