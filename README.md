@@ -33,7 +33,7 @@ The architecture of the proposed model is as follows:
 
 Additional information can be found in the **[Original Paper](https://doi.org/10.1016/j.energy.2023.127350)**.
 
-Stefenon, S. F., Seman, L. O., Aquino, L. S., Coelho, L. S. Wavelet-Seq2Seq-LSTM with attention for time series forecasting of level of dams in hydroelectric power plants. Energy, vol. 274, p. 127350, 2023.
+Stefenon, S. F., Seman, L. O., Aquino, L. S., Coelho, L. S. Wavelet-Seq2Seq-LSTM with attention for time series forecasting of level of dams in hydroelectric power plants, Energy, vol. 274, p. 127350, 2023.
 
 BibTeX:
 `@Article{e127350, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Aquino, Luiza Scapinello and Coelho, Leandro dos Santos}, TITLE = {{Wavelet-Seq2Seq-LSTM} with attention for time series forecasting of level of dams in hydroelectric power plants}, JOURNAL = {Energy}, VOLUME = {274}, YEAR = {2023}, PAGES = {127350}, DOI = {10.1016/j.energy.2023.127350}}`
